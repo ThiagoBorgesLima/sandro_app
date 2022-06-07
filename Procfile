@@ -1,1 +1,1 @@
-web: voila --port=5004 --Voila.ip=0.0.0.0 --no-browser --template=material --enable_nbextensions=True sandroteste.ipynb
+worker: voila --port=5004 --Voila.ip=0.0.0.0 --no-browser --template=material --enable_nbextensions=True sandroteste.ipynb
