@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser sandroteste.ipynb
+web: voila --port=5001 --Voila.ip=0.0.0.0 --no-browser --template=material --enable_nbextensions=True sandroteste.ipynb
