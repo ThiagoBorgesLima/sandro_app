@@ -1,0 +1,9 @@
+webdriver-manager==3.7.0
+urllib
+os
+bqplot
+ipympl
+ipyvolume
+scipy
+selenium==4.2.0
+voila
